@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'spotifyFont';
+  src: url('circular-std-2.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'spotifyFont', sans-serif;
+  background-color: #232323;
+  color: white;
+}
+
+@font-face {
+  font-family: 'bernier';
+  src: url('BERNIERShade-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
